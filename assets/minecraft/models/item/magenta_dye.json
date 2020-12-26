@@ -1,0 +1,16 @@
+{
+	"parent": "item/big_screen",
+	"overrides": [
+		{ "predicate": { "custom_model_data": 1}, "model": "item/screen/1" },
+		{ "predicate": { "custom_model_data": 2}, "model": "item/screen/2" },
+		{ "predicate": { "custom_model_data": 3}, "model": "item/screen/3" },
+		{ "predicate": { "custom_model_data": 4}, "model": "item/screen/4" },
+		{ "predicate": { "custom_model_data": 5}, "model": "item/screen/5" },
+		{ "predicate": { "custom_model_data": 6}, "model": "item/screen/6" },
+		{ "predicate": { "custom_model_data": 7}, "model": "item/screen/7" },
+		{ "predicate": { "custom_model_data": 8}, "model": "item/screen/8" },
+		{ "predicate": { "custom_model_data": 9}, "model": "item/screen/9" },
+		{ "predicate": { "custom_model_data": 10}, "model": "item/screen/10" },
+		{ "predicate": { "custom_model_data": 11}, "model": "item/screen/11" }
+	]
+}
